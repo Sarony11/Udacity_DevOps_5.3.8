@@ -1,6 +1,7 @@
 #Run virtual environemnt
 Setup:
 	python3 -m venv ~/.virtualenv
+	source .virtualenv/bin/activate 
 
 #Show information about environment
 env:
