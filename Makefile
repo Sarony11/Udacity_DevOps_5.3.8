@@ -1,5 +1,5 @@
 #Run virtual environemnt
-Setup:
+setup:
 	python3 -m venv .virtualenv
 	source .virtualenv/bin/activate 
 
